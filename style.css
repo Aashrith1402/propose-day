@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Varela Round", "Quicksand", sans-serif;
+    background: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(249, 244, 244);
+}
